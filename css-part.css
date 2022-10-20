@@ -1,0 +1,30 @@
+.hspan{
+	color: white;
+	background-repeat:no-repeat; center;
+}
+.Button{
+	border: none;
+	color: white;
+	padding: 32PX;
+}
+
+
+}
+.sendb{
+	color: black;
+}
+.champ{
+	color: black;
+}
+.label{
+	color:white ;
+	background-attachment: fixed;
+}
+.label{
+	color:white ;
+	background-position: center;
+}
+.label{
+	color: black;
+	background-size: cover;
+}
