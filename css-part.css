@@ -1,28 +1,70 @@
-.hspan{
-	color: white;
-	background-repeat:no-repeat;
-}
-.Button{
-	border: none;
-	color: white;
-	padding: 32PX;
+
+.section-1{
+
+
+	background-image: url("img/ivan-torres-MQUqbmszGGM-unsplash.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
 }
 
-.sendb{
-	color: black;
+nav a{
+
+	display: inline-block;
+	background-color: orange;
+	float: right;
+	color: white;
+	height: 36px;
+	line-height: 33px; 
+	padding: 0 10px;
+	font-family: sans-serif;
+	font-size: 13px; 
+	transition: .5s;
+
 }
-.champ{
-	color: black;
+
+
+.div-1{
+
+	background-color: orange;
+	color: white;
+	height: 150px;
+	font-size: 20px; 
 }
-.label{
-	color:white ;
-	background-attachment: fixed;
+
+.fieldset-1{
+ float: right;
 }
-.label{
-	color:white ;
-	background-position: center;
+
+
+.h1-1{
+
+	font-size: 30px;
+	text-indent: 200px;
 }
-.label{
-	color: black;
+.section-2{
+	background-color: black;
+	background-repeat: no-repeat;
 	background-size: cover;
+
+}
+
+
+.section-3{
+
+	
+	color: white;
+	height: 300px;
+	font-size: 20px;
+}
+
+.ost {
+
+	background-repeat: no-repeat;
+	background-size: cover;
+	float: right;
+}
+
+.div-2{
+
 }
